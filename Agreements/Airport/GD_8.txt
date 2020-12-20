@@ -1,1 +1,0 @@
-COPX:EGGD:*:BCN:*:*:GDAPP:London S8:9000:*:^BCN
