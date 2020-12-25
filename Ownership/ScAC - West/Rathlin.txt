@@ -3,7 +3,7 @@ OWNER:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
 
-SECTOR:Rathlin West:0:66000
+SECTOR:Rathlin West:25500:66000
 OWNER:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
