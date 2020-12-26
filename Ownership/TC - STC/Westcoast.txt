@@ -1,0 +1,10 @@
+SECTOR:Westcoast:0:0
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+
+SECTOR:Westcoast (DB-255):0:25500
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+BORDER:WCoast_EISN:Ant_WCoast:WCoast_Gal:WCoast_Tay:WCoast_Heb Low

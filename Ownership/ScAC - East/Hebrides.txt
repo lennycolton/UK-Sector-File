@@ -3,8 +3,14 @@ OWNER:SEH:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
 
-SECTOR:Hebrides (DB-660):0:66000
+SECTOR:Hebrides Low (DB-255):0:25500
 OWNER:SEH:SN:SE:S
 ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
 ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
-BORDER:Heb_EGGX:Heb_BIRD Del Inner:Heb_BIRD:Heb_Mor 1:Heb_Mor Low:Heb_Mor 2:Mon_Heb:Cen_Heb
+BORDER:Heb_EGGX:Heb_BIRD Del Inner:Heb_BIRD:Heb_Mor 1:Heb Low_Mor Low:WCoast_Heb Low
+
+SECTOR:Hebrides High (255-660):25500:66000
+OWNER:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
+BORDER:Heb_EGGX:Heb_BIRD Del Inner:Heb_BIRD:Heb_Mor 1:Heb High_Mor High:Mon_Heb High:Cen_Heb High
