@@ -1,0 +1,46 @@
+SECTOR:Westcoast:0:0
+
+SECTOR:Westcoast Rathlin:0:0
+OWNER:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
+
+SECTOR:Westcoast Rathlin (DB-255):0:25500
+OWNER:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SR:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SR:SW:SWD:S
+BORDER:RatW_EISN 1:WCoast-Rat_EISN 2:WCoast-Rat_EISN Del:WCoast-Rat_EISN 1:Ant_WCoast-Rat:WCoast-RatW_Gal:WCoast-Cen_WCoast-RatW:Cen_RatW
+GUEST:PKR:*:EGPK
+
+SECTOR:Westcoast Central:0:0
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+
+SECTOR:Westcoast Central (DB-255):0:25500
+OWNER:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR:O:SM:SC:SW:SWD:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SC:SW:SWD:S
+BORDER:Cen_EGGX:Cen_EISN:Cen_RatW:WCoast-Cen_WCoast-RatW:WCoast-Cen_Gal:WCoast-Mon_WCoast-Cen:Cen_Mon:Cen_Heb
+
+SECTOR:Westcoast Hebrides:0:0
+OWNER:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
+
+SECTOR:Westcoast Hebrides (DB-255):0:25500
+OWNER:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SEH:SN:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SEH:SN:SE:S
+BORDER:Mon_Heb:Cen_Heb:Heb Low_WCoast-Heb:Mor Low_WCoast-Heb
+
+SECTOR:Westcoast Montrose:0:0
+OWNER:SEW:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
+
+SECTOR:Westcoast Montrose (DB-255):0:25500
+OWNER:SEW:SS:SE:S
+ALTOWNER:Observing Scottish FIR:O:SM:SS:SE:S
+ALTOWNER:Observing Scottish FIR (excl. STC_CTR):O:SM:SS:SE:S
+BORDER:WCoast-Mon_WCoast-Cen:WCoast-Mon_Gal:WCoast-Mon_Tay:WCoast-Mon_Mor:Mon_Heb:Cen_Mon
